@@ -1,2 +1,2 @@
 
-python -m {django}
+python -m {modules}
