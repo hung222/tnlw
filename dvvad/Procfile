@@ -1,1 +1,2 @@
-web: gunicorn dvvad.wsgi
+web: python src/main.py
+worker: echo "another process"
