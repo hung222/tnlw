@@ -1,1 +1,2 @@
-web: gunicorn dvvad.wsgi
+web: echo start from procfile
+release: echo release
