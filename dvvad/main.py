@@ -1,1 +1,3 @@
-python main.py
+import psycopg2 as pg
+
+print(pg)
